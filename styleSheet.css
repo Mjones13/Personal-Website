@@ -14,3 +14,8 @@ h1 {
 span {
 	margin-left: 15px;
 }
+
+a {
+	background-color: LightGrey;
+	text-color: blue;
+}
