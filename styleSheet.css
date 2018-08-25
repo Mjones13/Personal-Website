@@ -1,11 +1,8 @@
-.intro {
-	color: blue;
-	font-size: 15px;
-}
 
 body {
 	font-family: Arial, Helvetica, sans-serif
 }
+
 
 h1 {
 	margin: 0px;
@@ -18,4 +15,19 @@ span {
 a {
 	background-color: LightGrey;
 	text-color: blue;
+}
+
+.intro {
+	color: blue;
+	font-size: 15px;
+}
+
+.about {
+	color: olive;
+	font-size: 15px;
+}
+
+.noMarginDiv {
+	margin: 0px;
+	border: 0px;
 }
